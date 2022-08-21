@@ -1,0 +1,16 @@
+{
+  "name": "@braunstetter/rock",
+  "version": "1.0.0",
+  "description": "Assets for the rock.systems ecosystem. Reuse it everywhere.",
+  "main": "index.js",
+  "author": "Michael Brauner",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "postcss": "^8.3.5",
+    "postcss-import": "^14.1.0",
+    "postcss-mixins": "^9.0.3",
+    "postcss-simple-vars": "^6.0.3"
+  }
+}
